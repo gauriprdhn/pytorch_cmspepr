@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: torch-cmspepr
+Version: 0.0.1
+Summary: PyTorch Extension Library for HGCAL Specific knn optimizations
+Home-page: UNKNOWN
+Author: Jan Kieseler (adaptations to torch by G. Pradhan)
+Author-email: gpradhan@fnal.gov
+License: MIT
+Description: UNKNOWN
+Keywords: pytorch,geometric-deep-learning,graph-neural-networks,cluster-algorithms
+Platform: UNKNOWN
+Requires-Python: >=3.6
+Provides-Extra: test
